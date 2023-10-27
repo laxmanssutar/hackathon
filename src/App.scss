@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.mainWrapper {
+  padding-top: 64px;
+
+  .leftBlock {
+    border: 1px solid red;
+  }
+}
